@@ -1,1 +1,1 @@
-# 5Score-Hunt
+# Flappy-Bird-Game with JavaScript
